@@ -1,0 +1,14 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryutaudo/node-playground.git",
+  "author": "Ryuta Udo <ryutaudo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
